@@ -43,6 +43,8 @@ The script has 3 modes, Whatif, Unique and Least.
 
 **Least** : This mode will convert each ACL to a set of RBAC Role Assignment. If we take the same example as above then the target roles in the Lease mode would be Key Vault Secret Reader and Key Vault Crypto Officer.
 
+To launch the script: `.\Migrate-AzKeyVault.ps1 -Mode <Whatif|Unique|Least>`
+
 Here is the script sequence:
 - Read input files
 - Check if user is connected to Azure
