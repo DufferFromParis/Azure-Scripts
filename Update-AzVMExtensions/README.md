@@ -16,10 +16,14 @@ Powershell script I wrote to speed up the process of VM Extensions auto updates 
 ## Script
 
 To launch the script to check if updates are available:
+
 `.\Update-AzVMExtensions.ps1 -tenant <tenant name> -subscription <subscription name>`
 
+
 To launch the script to apply updates simply add the update switch:
+
 `.\Update-AzVMExtensions.ps1 -tenant <tenant name> -subscription <subscription name> -update`
+
 
 Here is the script sequence:
 - Check if user is connected to Azure
