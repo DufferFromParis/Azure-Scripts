@@ -30,7 +30,7 @@ Powershell script I wrote to help migrating Key Vaults from the access policy mo
   - Key Vault Crypto Officer
     - Key Vault Crypto User
       - Key Vault Crypto Service Encryption User
-      - Key Vault Crypto Service Release User
+    - Key Vault Crypto Service Release User
   - Key Vault Reader
 
 ## Script
