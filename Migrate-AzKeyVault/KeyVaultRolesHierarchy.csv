@@ -6,6 +6,6 @@ Key Vault Certificates Officer,Key Vault Administrator
 Key Vault Certificate User,Key Vault Certificates Officer
 Key Vault Crypto Officer,Key Vault Administrator
 Key Vault Crypto User,Key Vault Crypto Officer
+Key Vault Crypto Service Release User,Key Vault Crypto Officer
 Key Vault Crypto Service Encryption User,Key Vault Crypto User
-Key Vault Crypto Service Release User,Key Vault Crypto User
 Key Vault Reader,Key Vault Administrator
